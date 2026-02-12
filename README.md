@@ -19,6 +19,16 @@
 
 ---
 
+## 🚀 Featured Project
+
+🔹 **Java Sort Visualizer**  
+Interactive visualization of sorting algorithms using Java Swing.  
+Implemented Bubble, Selection, Insertion, Merge & Quick Sort with real-time animation.
+
+👉 [View Project](https://github.com/Ayush-nain/Sort-Visualizer)
+
+---
+
 ## ⚙ Tech Arsenal
 
 <p align="center">
@@ -30,11 +40,11 @@
 ## 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Nainwal&show_icons=true&theme=transparent&title_color=FFD700&text_color=ffffff&icon_color=FFD700&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-nain&show_icons=true&theme=transparent&title_color=FFD700&text_color=ffffff&icon_color=FFD700&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Nainwal&theme=transparent&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-nain&theme=transparent&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&hide_border=true"/>
 </p>
 
 ---
@@ -47,7 +57,7 @@
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayushnainwal1403">
