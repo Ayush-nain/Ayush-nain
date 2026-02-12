@@ -46,7 +46,9 @@ Implemented Bubble, Selection, Insertion, Merge & Quick Sort with real-time anim
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-nain&theme=transparent&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&hide_border=true"/>
 </p>
-
+<p>
+  ![Pac-Man Contributions](https://raw.githubusercontent.com/Ayush-nain/pacman-animation/output/github-contribution-grid-snake.svg)
+</p>
 ---
 
 ## 🏆 DSA Focus
@@ -58,7 +60,7 @@ Implemented Bubble, Selection, Insertion, Merge & Quick Sort with real-time anim
 ---
 ## Performance Metrics
 
-![Pac-Man Contributions](https://raw.githubusercontent.com/Ayush-nain/pacman-animation/output/github-contribution-grid-snake.svg)
+
 
 
 
