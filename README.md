@@ -1,16 +1,62 @@
-## Hi there 👋
+<!-- Premium Black & Gold Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=220&section=header&text=Ayush%20Nainwal&fontSize=45&fontColor=FFD700&animation=fadeIn" />
+</p>
 
-<!--
-**Ayush-nain/Ayush-nain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3500&color=FFD700&center=true&vCenter=true&width=600&lines=Software+Developer;Java+%7C+DSA+Enthusiast;Future+Product-Based+Engineer" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About
+
+- 🎓 B.Tech CSE Student  
+- 💻 Strong focus on **Data Structures & Algorithms**  
+- ⚡ Building scalable Java projects  
+- 🎯 Targeting Product-Based Companies  
+- 📈 Consistent problem solver  
+
+---
+
+## ⚙ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,mysql,git,github" />
+</p>
+
+---
+
+## 📊 Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Nainwal&show_icons=true&theme=transparent&title_color=FFD700&text_color=ffffff&icon_color=FFD700&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Nainwal&theme=transparent&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 DSA Focus
+
+> Solving problems daily.  
+> Optimizing time & space complexity.  
+> Thinking in patterns, not memorization.
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayushnainwal1403">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=120&section=footer"/>
+</p>
