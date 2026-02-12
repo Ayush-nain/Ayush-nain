@@ -46,7 +46,10 @@ Implemented Bubble, Selection, Insertion, Merge & Quick Sort with real-time anim
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-nain&theme=transparent&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&hide_border=true"/>
 </p>
+
+
 <p>
+  
   ![Pac-Man Contributions](https://raw.githubusercontent.com/Ayush-nain/pacman-animation/output/github-contribution-grid-snake.svg)
 </p>
 ---
@@ -58,20 +61,17 @@ Implemented Bubble, Selection, Insertion, Merge & Quick Sort with real-time anim
 > Thinking in patterns, not memorization.
 
 ---
-## Performance Metrics
-
-
-
-
-
-
-
-
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayushnainwal1403">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
+  </a>
+  <a href="https://github.com/Ayush-nain">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
+  </a>
+  <a href="mailto:ayushnainwal135@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFD700"/>
   </a>
 </p>
 
