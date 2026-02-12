@@ -58,7 +58,8 @@ Implemented Bubble, Selection, Insertion, Merge & Quick Sort with real-time anim
 ---
 ## Performance Metrics
 
-![Pac-Man Contributions](https://raw.githubusercontent.com/Ayush-nain/pacman-animation/github-contribution-grid-snake.svg)
+![Pac-Man Contributions](https://raw.githubusercontent.com/Ayush-nain/pacman-animation/output/github-contribution-grid-snake.svg)
+
 
 
 
