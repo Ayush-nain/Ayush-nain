@@ -56,6 +56,8 @@ Implemented Bubble, Selection, Insertion, Merge & Quick Sort with real-time anim
 > Thinking in patterns, not memorization.
 
 ---
+![Pac-Man Contributions](https://raw.githubusercontent.com/Ayush-nain/pacman/output/github-contribution-grid-snake.svg)
+
 
 ## 🌐 Connect With Me
 
