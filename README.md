@@ -56,7 +56,8 @@ Implemented Bubble, Selection, Insertion, Merge & Quick Sort with real-time anim
 > Thinking in patterns, not memorization.
 
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ayush-nain/pacman-animation&theme=pacman)
+![Pac-Man GitHub Contributions](dist/github-contribution-grid-pacman.svg)
+
 
 
 
