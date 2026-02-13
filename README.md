@@ -78,5 +78,6 @@ Implemented Bubble, Selection, Insertion, Merge & Quick Sort with real-time anim
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFD700&height=150&section=footer&text=Thanks%20for%20Visiting!&fontColor=FFD700&fontSize=30"/>
 </p>
+
